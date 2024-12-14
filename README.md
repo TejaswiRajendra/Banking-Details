@@ -4,4 +4,4 @@ This is my first project
 Account holder Name- Tejaswi Rajendra
 <br>
 Account number- 12345678
-
+bank name - SBI
