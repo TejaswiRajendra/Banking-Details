@@ -1,0 +1,67 @@
+1. Repository Name
+Purpose: The repository name uniquely identifies your project. You can rename the repository here.
+How to Use:
+Enter a new name in the text box to rename your repository.
+Example: Rename the repository from Banking-Details to Banking-App. This might be needed if the project's scope changes or if you need a more descriptive name.
+2. Template Repository
+Purpose: Enable this option to make the repository a template that others can use to generate new repositories with the same structure and files.
+How to Use:
+Check the box to make the repository a template.
+Example: If Banking-Details is a boilerplate for banking projects, you can enable this option so that others can reuse its structure and contents.
+3. Require Contributors to Sign Off on Web-Based Commits
+Purpose: Enforces signing off on commits through GitHub’s web interface. This ensures compliance with repository terms, like the Developer Certificate of Origin (DCO).
+How to Use:
+Check the box to require sign-off.
+Example: For an open-source repository where legal attribution is critical, enable this to enforce accountability for contributors.
+4. Default Branch
+Purpose: Defines the main branch against which pull requests and commits are made.
+How to Use:
+Change the branch name by editing the text or selecting a different branch.
+Example: Use main as the default branch. However, if you prefer develop as the primary branch during development, set it here.
+5. Social Preview
+Purpose: Set an image to display when the repository is shared on social media.
+How to Use:
+Upload an image with a resolution of at least 640x320 pixels.
+Example: Add a logo.png or preview.png file to visually represent the project, making it more appealing when shared.
+Other Options in the Left Sidebar
+a. Collaborators
+Purpose: Add collaborators to grant them access to the repository.
+How to Use:
+Invite team members via their GitHub usernames or email addresses.
+Example: Add JohnDoe as a collaborator to help maintain the Banking-Details repository.
+b. Moderation Options
+Purpose: Set rules for comments and contributions to maintain a healthy community environment.
+Example: Ban certain phrases in comments to prevent spamming.
+c. Branches
+Purpose: Manage branch-specific rules, like protection rules.
+Example: Set a rule to prevent direct commits to the main branch to enforce pull requests.
+d. Tags
+Purpose: Create and manage repository tags for versioning.
+Example: Add a tag v1.0 to mark the first release of the project.
+e. Actions
+Purpose: Automate workflows, like CI/CD pipelines.
+Example: Use a GitHub Actions YAML file to deploy the Banking-Details application automatically.
+f. Webhooks
+Purpose: Trigger external services upon repository events like commits or pull requests.
+Example: Notify a Slack channel every time a new issue is created.
+g. Environments
+Purpose: Configure deployment environments like staging or production.
+Example: Deploy the application to a staging environment for testing.
+h. Security Options (Code Security, Deploy Keys, Secrets and Variables)
+Purpose: Enhance repository security by managing access keys and sensitive data.
+Example: Store API keys or environment variables securely under Secrets.
+Practical Example
+Create Repository:
+Name: Banking-App
+Template: Enable if it’s a boilerplate.
+Set Branch Rules:
+Make main the default branch and protect it.
+Add Collaborators:
+Add team members to collaborate.
+Add Secrets:
+Store sensitive keys like DB_PASSWORD.
+Social Preview:
+Add a banner image for better visibility.
+Automation:
+Use GitHub Actions to deploy code automatically after merging a pull request.
+This step-by-step configuration ensures a secure, organized, and collaborative environment for your project.
