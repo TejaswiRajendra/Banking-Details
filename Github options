@@ -65,3 +65,5 @@ Add a banner image for better visibility.
 Automation:
 Use GitHub Actions to deploy code automatically after merging a pull request.
 This step-by-step configuration ensures a secure, organized, and collaborative environment for your project.
+
+branch
